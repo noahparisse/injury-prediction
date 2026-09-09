@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset files
+data/
+
+# Model weights
+calorie_clip_model/*.pt
+
+# Local model folder (downloaded at runtime)
+calorie_clip_model/
