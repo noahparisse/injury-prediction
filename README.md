@@ -29,7 +29,7 @@ Data is structured per participant under the `data/` directory:
    # Install dependencies
    uv sync
    # Activate environment
-   source .venv/bin/activate  # Or .venv\Scripts\activate on Windows
+   source .venv/bin/activate  # Or .venv/Scripts/activate on Windows
    ```
 
 2. **Configuration:**
