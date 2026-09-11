@@ -36,6 +36,7 @@ Data is structured per participant under the `data/` directory (e.g., `data/p03/
 - **Key Libraries:**
   - Data Processing: `pandas`
   - Deep Learning / Vision: `torch`, `torchvision`, `transformers`, `open-clip-torch`, `pillow`
+  - Machine Learning: `catboost`, `scikit-learn`
   - Environment / Utilities: `dotenv`, `ipykernel`
 - **Experimentation:** Jupyter Notebook (`main.ipynb`) for exploratory data analysis, feature engineering, and model prototyping.
 

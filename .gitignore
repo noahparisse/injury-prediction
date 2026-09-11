@@ -225,3 +225,5 @@ calorie_clip_model/*.pt
 
 # Local model folder (downloaded at runtime)
 calorie_clip_model/
+
+catboost_info/

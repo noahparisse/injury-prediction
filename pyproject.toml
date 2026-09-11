@@ -3,12 +3,14 @@ name = "injury-prediction"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "catboost>=1.2.10",
     "dotenv>=0.9.9",
     "ipykernel>=7.3.0",
     "matplotlib>=3.11.1",
     "open-clip-torch>=3.3.0",
     "pandas>=3.0.5",
     "pillow>=12.3.0",
+    "scikit-learn>=1.9.1",
     "seaborn>=0.13.2",
     "torch>=2.14.0",
     "torchvision>=0.29.0",
